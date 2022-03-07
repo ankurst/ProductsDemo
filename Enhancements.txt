@@ -6,3 +6,5 @@
 6.	Authorization placeholder is provided in MVC application but we can apply authorization in WebAPI as well to ensure only authentic caller/user is calling WebAPI.
 7.	I have used same MVC view to provide add and edit feature on Product but we can segregate it to have better maintainability.
 8.	I can provide delete product feature in MVC UI page also (I have not provided as of now as it was not explicitly mentioned in requirement document). I have provided WebAPI endpoint though for this feature.
+9. 	Progress bar can be shown on UI page wherever possible.
+10.     CSS can be applied more or changed as per your need as I have tried to make it simple for demo purposes.
