@@ -1,0 +1,36 @@
+﻿@model IEnumerable<ProductsUI.Models.ProductListForGrid>
+@using System.Configuration;
+
+@{
+    ViewBag.Title = "Products";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var grid = new WebGrid(Model, rowsPerPage: Convert.ToInt32(ConfigurationManager.AppSettings["RowsPerPage"]));
+}
+
+<h2>Products List</h2>
+
+<p>
+    @Html.ActionLink("Create New Product", "Create")
+</p>
+
+<p>
+</p>
+
+@grid.GetHtml(
+    tableStyle: "table",
+    fillEmptyRows: false,
+    headerStyle: "header",
+    mode: WebGridPagerModes.All, //methods provided for moving between pages
+    firstText: "<< First",
+    previousText: "< Prev",
+    nextText: "Next >",
+    lastText: "Last >>",
+    columns: new[]
+    {
+        grid.Column("Name"),
+        grid.Column("Description"),
+        grid.Column("Category.Name","Category"),
+        grid.Column("DisplayAttributes","Attributes", canSort: false),
+        grid.Column("Action","Action", canSort: false, format:@<text> @Html.ActionLink("Edit", "Edit", new { id = item.Id })</text>)
+}
+)

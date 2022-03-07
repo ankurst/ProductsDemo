@@ -1,0 +1,726 @@
+2022-03-01 15:24:19,701 [7] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-01 15:24:25,519 [7] INFO ProductWebAPI.Controllers.ProductsController - found 1 product(s) from db
+2022-03-01 15:24:25,520 [7] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-01 15:27:55,358 [7] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-01 15:27:55,532 [7] INFO ProductWebAPI.Controllers.ProductsController - found 1 product(s) from db
+2022-03-01 15:27:55,533 [7] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-01 15:29:53,151 [12] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-01 15:29:53,180 [12] INFO ProductWebAPI.Controllers.ProductsController - found 1 product(s) from db
+2022-03-01 15:29:53,181 [12] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-01 15:32:16,960 [21] INFO ProductWebAPI.Controllers.ProductsController - Start Create {"Id":0,"Name":"iPhone 6s","Description":"Apple Smartphone","Category":{"Id":2,"Name":null,"Attributes":null},"Attributes":[{"Id":4,"Value":"4gb"},{"Id":5,"Value":"6px"},{"Id":6,"Value":"10ox"}]}
+2022-03-01 15:32:58,760 [21] INFO ProductWebAPI.Controllers.ProductsController - Product being added iPhone 6s, Apple Smartphone, 2
+2022-03-01 15:33:33,684 [17] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-01 15:33:35,093 [17] INFO ProductWebAPI.Controllers.ProductsController - found 1 product(s) from db
+2022-03-01 15:33:35,093 [17] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-01 15:34:37,958 [21] INFO ProductWebAPI.Controllers.ProductsController - Error while adding Product- Unable to update the EntitySet 'ProductAttribute' because it has a DefiningQuery and no <InsertFunction> element exists in the <ModificationFunctionMapping> element to support the current operation., InnerException- Unable to update the EntitySet 'ProductAttribute' because it has a DefiningQuery and no <InsertFunction> element exists in the <ModificationFunctionMapping> element to support the current operation.
+2022-03-01 15:36:41,253 [21] INFO ProductWebAPI.Controllers.ProductsController - Start Create {"Id":0,"Name":"iPhone 6s","Description":"Apple Smartphone","Category":{"Id":2,"Name":null,"Attributes":null},"Attributes":[{"Id":4,"Value":"4gb"},{"Id":5,"Value":"6px"},{"Id":6,"Value":"10ox"}]}
+2022-03-01 15:36:41,262 [21] INFO ProductWebAPI.Controllers.ProductsController - Product being added iPhone 6s, Apple Smartphone, 2
+2022-03-01 15:36:44,960 [21] INFO ProductWebAPI.Controllers.ProductsController - Error while adding Product- Unable to update the EntitySet 'ProductAttribute' because it has a DefiningQuery and no <InsertFunction> element exists in the <ModificationFunctionMapping> element to support the current operation., InnerException- Unable to update the EntitySet 'ProductAttribute' because it has a DefiningQuery and no <InsertFunction> element exists in the <ModificationFunctionMapping> element to support the current operation.
+2022-03-01 17:21:40,046 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-01 17:22:03,997 [5] INFO ProductWebAPI.Controllers.ProductsController - found 1 product(s) from db
+2022-03-01 17:22:03,997 [5] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-01 17:28:01,858 [12] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-01 17:28:02,361 [12] INFO ProductWebAPI.Controllers.ProductsController - found 1 product(s) from db
+2022-03-01 17:28:02,362 [12] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-01 17:51:58,805 [8] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-01 17:52:34,970 [8] INFO ProductWebAPI.Controllers.ProductsController - found 1 product(s) from db
+2022-03-01 17:52:34,971 [8] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-01 17:55:42,760 [7] INFO ProductWebAPI.Controllers.ProductsController - Start Create {"Id":0,"Name":"Santro","Description":"Hyundai Santro","Category":{"Id":1,"Name":null,"Attributes":null},"Attributes":[{"Id":1,"Value":"White"},{"Id":2,"Value":"Petrol"},{"Id":3,"Value":"2018"}]}
+2022-03-01 17:56:31,588 [7] INFO ProductWebAPI.Controllers.ProductsController - Product being added Santro, Hyundai Santro, 1
+2022-03-01 17:57:11,533 [7] INFO ProductWebAPI.Controllers.ProductsController - Product Attributes being added for 1 category
+2022-03-01 17:58:29,814 [7] INFO ProductWebAPI.Controllers.ProductsController - Error while adding Product- Unable to update the EntitySet 'ProductAttribute' because it has a DefiningQuery and no <InsertFunction> element exists in the <ModificationFunctionMapping> element to support the current operation., InnerException- Unable to update the EntitySet 'ProductAttribute' because it has a DefiningQuery and no <InsertFunction> element exists in the <ModificationFunctionMapping> element to support the current operation.
+2022-03-01 19:19:32,692 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Create {"Id":0,"Name":"Santro","Description":"Hyundai Santro","Category":{"Id":1,"Name":null,"Attributes":null},"Attributes":[{"Id":1,"Value":"White"},{"Id":2,"Value":"Petrol"},{"Id":3,"Value":"2018"}]}
+2022-03-01 19:19:36,333 [5] INFO ProductWebAPI.Controllers.ProductsController - Product being added Santro, Hyundai Santro, Category id 1
+2022-03-01 19:20:40,069 [5] INFO ProductWebAPI.Controllers.ProductsController - Product Attributes being added for category with id 1
+2022-03-01 19:20:52,678 [5] INFO ProductWebAPI.Controllers.ProductsController - End Create
+2022-03-01 19:21:18,007 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-01 19:21:21,596 [5] INFO ProductWebAPI.Controllers.ProductsController - found 3 product(s) from db
+2022-03-01 19:21:21,596 [5] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-01 19:27:50,703 [15] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-01 19:27:50,806 [15] INFO ProductWebAPI.Controllers.ProductsController - found 3 product(s) from db
+2022-03-01 19:27:50,807 [15] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-01 20:19:16,369 [11] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-01 20:25:04,540 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-01 20:25:33,749 [5] INFO ProductWebAPI.Controllers.ProductsController - found 1 product(s) from db
+2022-03-01 20:25:33,750 [5] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-01 20:25:43,433 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-01 20:25:43,834 [5] INFO ProductWebAPI.Controllers.ProductsController - found 1 product(s) from db
+2022-03-01 20:25:43,834 [5] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-01 20:26:35,671 [12] INFO ProductWebAPI.Controllers.ProductsController - Start Create {"Id":0,"Name":"iPhone 6S","Description":"Apple Smartphone","Category":{"Id":2,"Name":null,"Attributes":null},"Attributes":[{"Id":4,"Value":"4gb"},{"Id":5,"Value":"6px"},{"Id":6,"Value":"10px"}]}
+2022-03-01 20:26:36,049 [12] INFO ProductWebAPI.Controllers.ProductsController - Product being added iPhone 6S, Apple Smartphone, Category id 2
+2022-03-01 20:26:37,904 [12] INFO ProductWebAPI.Controllers.ProductsController - Product Attributes being added for category with id 2
+2022-03-01 20:26:38,137 [12] INFO ProductWebAPI.Controllers.ProductsController - End Create
+2022-03-01 20:26:47,895 [10] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-01 20:26:48,025 [10] INFO ProductWebAPI.Controllers.ProductsController - found 2 product(s) from db
+2022-03-01 20:26:48,025 [10] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-01 20:29:52,132 [11] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-01 20:29:52,204 [11] INFO ProductWebAPI.Controllers.ProductsController - found 2 product(s) from db
+2022-03-01 20:29:52,204 [11] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-01 20:32:47,657 [19] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-01 20:32:47,854 [19] INFO ProductWebAPI.Controllers.ProductsController - found 2 product(s) from db
+2022-03-01 20:32:47,855 [19] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-01 20:33:57,762 [16] INFO ProductWebAPI.Controllers.ProductsController - Start Create {"Id":0,"Name":"Honda City","Description":"Best Car by Honda","Category":{"Id":1,"Name":null,"Attributes":null},"Attributes":[{"Id":1,"Value":"Black"},{"Id":2,"Value":"Petrol"},{"Id":3,"Value":"HighEnd"}]}
+2022-03-01 20:33:57,765 [16] INFO ProductWebAPI.Controllers.ProductsController - Product being added Honda City, Best Car by Honda, Category id 1
+2022-03-01 20:33:57,858 [16] INFO ProductWebAPI.Controllers.ProductsController - Product Attributes being added for category with id 1
+2022-03-01 20:33:57,886 [16] INFO ProductWebAPI.Controllers.ProductsController - End Create
+2022-03-01 20:34:04,476 [12] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-01 20:34:04,643 [12] INFO ProductWebAPI.Controllers.ProductsController - found 3 product(s) from db
+2022-03-01 20:34:04,643 [12] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-02 11:19:42,494 [8] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-02 11:20:25,805 [8] INFO ProductWebAPI.Controllers.ProductsController - found 3 product(s) from db
+2022-03-02 11:20:25,805 [8] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-02 11:24:11,264 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-02 11:24:11,466 [5] INFO ProductWebAPI.Controllers.ProductsController - found 3 product(s) from db
+2022-03-02 11:24:11,466 [5] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-02 11:28:17,824 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-02 11:28:17,872 [5] INFO ProductWebAPI.Controllers.ProductsController - found 3 product(s) from db
+2022-03-02 11:28:17,872 [5] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-02 11:28:33,915 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-02 11:28:33,952 [5] INFO ProductWebAPI.Controllers.ProductsController - found 3 product(s) from db
+2022-03-02 11:28:33,952 [5] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-02 11:30:51,322 [7] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-02 11:30:51,337 [7] INFO ProductWebAPI.Controllers.ProductsController - found 3 product(s) from db
+2022-03-02 11:30:51,337 [7] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-02 11:30:56,993 [12] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-02 11:30:57,010 [12] INFO ProductWebAPI.Controllers.ProductsController - found 3 product(s) from db
+2022-03-02 11:30:57,010 [12] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-02 11:48:18,321 [20] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-02 11:48:32,221 [20] INFO ProductWebAPI.Controllers.ProductsController - found 3 product(s) from db
+2022-03-02 11:48:32,221 [20] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-02 11:52:13,574 [20] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-02 11:52:14,188 [20] INFO ProductWebAPI.Controllers.ProductsController - found 3 product(s) from db
+2022-03-02 11:52:14,188 [20] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-02 12:11:46,782 [26] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-02 12:12:26,590 [26] INFO ProductWebAPI.Controllers.ProductsController - found 3 product(s) from db
+2022-03-02 12:12:26,590 [26] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-02 13:06:13,211 [22] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-02 13:06:38,877 [22] INFO ProductWebAPI.Controllers.ProductsController - found 3 product(s) from db
+2022-03-02 13:06:38,877 [22] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-02 13:08:51,453 [23] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-02 13:08:52,483 [23] INFO ProductWebAPI.Controllers.ProductsController - found 3 product(s) from db
+2022-03-02 13:08:52,483 [23] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-02 13:09:46,656 [23] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-02 13:09:47,130 [23] INFO ProductWebAPI.Controllers.ProductsController - found 3 product(s) from db
+2022-03-02 13:09:47,130 [23] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-02 14:21:43,498 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-02 14:22:25,294 [5] INFO ProductWebAPI.Controllers.ProductsController - found 3 product(s) from db
+2022-03-02 14:22:25,294 [5] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-02 14:28:40,642 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-02 14:28:40,741 [5] INFO ProductWebAPI.Controllers.ProductsController - found 3 product(s) from db
+2022-03-02 14:28:40,741 [5] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-02 14:34:06,893 [8] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-02 14:34:06,960 [8] INFO ProductWebAPI.Controllers.ProductsController - found 3 product(s) from db
+2022-03-02 14:34:06,960 [8] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-02 14:41:45,721 [6] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-02 14:43:49,319 [9] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-02 14:44:02,828 [9] INFO ProductWebAPI.Controllers.ProductsController - found 3 product(s) from db
+2022-03-02 14:44:02,828 [9] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-02 14:44:11,503 [10] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-02 14:44:11,632 [10] INFO ProductWebAPI.Controllers.ProductsController - found 3 product(s) from db
+2022-03-02 14:44:11,632 [10] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-02 15:24:27,550 [53] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-02 15:24:30,295 [53] INFO ProductWebAPI.Controllers.ProductsController - found 3 product(s) from db
+2022-03-02 15:24:30,295 [53] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-02 18:17:22,495 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-02 18:22:52,456 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-02 18:22:53,856 [5] INFO ProductWebAPI.Controllers.ProductsController - found 3 product(s) from db
+2022-03-02 18:22:53,856 [5] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-02 18:25:18,578 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-02 18:25:18,615 [5] INFO ProductWebAPI.Controllers.ProductsController - found 3 product(s) from db
+2022-03-02 18:25:18,615 [5] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-02 18:25:40,330 [10] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-02 18:25:40,371 [10] INFO ProductWebAPI.Controllers.ProductsController - found 3 product(s) from db
+2022-03-02 18:25:40,371 [10] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-02 18:30:20,879 [13] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-02 18:30:20,938 [13] INFO ProductWebAPI.Controllers.ProductsController - found 3 product(s) from db
+2022-03-02 18:30:20,939 [13] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-02 18:52:48,544 [20] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-02 18:53:02,023 [20] INFO ProductWebAPI.Controllers.ProductsController - found 3 product(s) from db
+2022-03-02 18:53:02,023 [20] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-02 18:58:35,505 [6] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-02 18:59:20,634 [7] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-02 18:59:28,025 [6] INFO ProductWebAPI.Controllers.ProductsController - found 3 product(s) from db
+2022-03-02 18:59:28,026 [6] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-02 18:59:28,026 [7] INFO ProductWebAPI.Controllers.ProductsController - found 3 product(s) from db
+2022-03-02 18:59:28,026 [7] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-02 19:02:16,166 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-02 19:02:16,188 [5] INFO ProductWebAPI.Controllers.ProductsController - found 3 product(s) from db
+2022-03-02 19:02:16,188 [5] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-02 19:03:52,602 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-02 19:03:52,616 [5] INFO ProductWebAPI.Controllers.ProductsController - found 3 product(s) from db
+2022-03-02 19:03:52,616 [5] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-03 06:33:29,963 [6] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-03 06:38:15,596 [6] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-03 06:38:25,309 [6] INFO ProductWebAPI.Controllers.ProductsController - found 3 product(s) from db
+2022-03-03 06:38:25,309 [6] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-03 06:38:46,769 [6] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-03 06:38:47,309 [6] INFO ProductWebAPI.Controllers.ProductsController - found 3 product(s) from db
+2022-03-03 06:38:47,309 [6] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-03 06:45:53,755 [6] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-03 06:45:54,409 [6] INFO ProductWebAPI.Controllers.ProductsController - found 3 product(s) from db
+2022-03-03 06:45:54,409 [6] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-03 06:48:29,502 [8] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-03 06:48:29,619 [8] INFO ProductWebAPI.Controllers.ProductsController - found 3 product(s) from db
+2022-03-03 06:48:29,619 [8] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-03 07:08:24,145 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-03 07:09:35,906 [7] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-03 07:09:42,548 [7] INFO ProductWebAPI.Controllers.ProductsController - found 3 product(s) from db
+2022-03-03 07:09:42,548 [7] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-03 07:14:29,922 [7] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-03 07:14:31,353 [7] INFO ProductWebAPI.Controllers.ProductsController - found 3 product(s) from db
+2022-03-03 07:14:31,353 [7] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-03 08:12:42,374 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-03 08:13:37,156 [5] INFO ProductWebAPI.Controllers.ProductsController - found 3 product(s) from db
+2022-03-03 08:13:37,157 [5] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-03 08:20:24,500 [14] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-03 08:20:27,408 [14] INFO ProductWebAPI.Controllers.ProductsController - found 3 product(s) from db
+2022-03-03 08:20:27,408 [14] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-03 08:45:09,687 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-03 08:45:35,092 [5] INFO ProductWebAPI.Controllers.ProductsController - found 3 product(s) from db
+2022-03-03 08:45:35,092 [5] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-03 08:56:08,672 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-03 08:56:09,075 [5] INFO ProductWebAPI.Controllers.ProductsController - found 3 product(s) from db
+2022-03-03 08:56:09,075 [5] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-03 09:17:40,319 [7] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-03 09:18:10,208 [7] INFO ProductWebAPI.Controllers.ProductsController - found 3 product(s) from db
+2022-03-03 09:18:10,208 [7] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-03 09:19:48,138 [7] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-03 09:19:48,265 [7] INFO ProductWebAPI.Controllers.ProductsController - found 3 product(s) from db
+2022-03-03 09:19:48,265 [7] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-03 11:13:54,250 [7] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-03 11:14:08,453 [7] INFO ProductWebAPI.Controllers.ProductsController - found 3 product(s) from db
+2022-03-03 11:14:08,454 [7] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-03 11:20:07,766 [6] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-03 11:20:08,114 [6] INFO ProductWebAPI.Controllers.ProductsController - found 3 product(s) from db
+2022-03-03 11:20:08,115 [6] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-03 11:21:36,394 [12] INFO ProductWebAPI.Controllers.ProductsController - Start Create {"Id":0,"Name":"MotoG 6S","Description":"Motorola SmartPhone","Category":{"Id":2,"Name":null,"Attributes":null},"Attributes":[{"Id":4,"Value":"4gb"},{"Id":5,"Value":"6px"},{"Id":6,"Value":"12px"}]}
+2022-03-03 11:21:36,745 [12] INFO ProductWebAPI.Controllers.ProductsController - Product being added MotoG 6S, Motorola SmartPhone, Category id 2
+2022-03-03 11:21:38,615 [12] INFO ProductWebAPI.Controllers.ProductsController - Product Attributes being added for category with id 2
+2022-03-03 11:21:38,893 [12] INFO ProductWebAPI.Controllers.ProductsController - End Create
+2022-03-03 11:21:42,302 [9] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-03 11:21:42,411 [9] INFO ProductWebAPI.Controllers.ProductsController - found 4 product(s) from db
+2022-03-03 11:21:42,411 [9] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-03 11:22:13,447 [6] INFO ProductWebAPI.Controllers.ProductsController - Start Edit {"Id":0,"Name":"Honda City1","Description":"Best Car by Honda1","Category":null,"Attributes":[{"Id":1,"Value":"Black1"},{"Id":2,"Value":"Petrol1"},{"Id":3,"Value":"HighEnd1"}]}
+2022-03-03 11:24:55,865 [6] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-03 11:24:56,459 [6] INFO ProductWebAPI.Controllers.ProductsController - found 4 product(s) from db
+2022-03-03 11:24:56,460 [6] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-03 11:52:02,592 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-03 11:52:20,698 [5] INFO ProductWebAPI.Controllers.ProductsController - found 4 product(s) from db
+2022-03-03 11:52:20,698 [5] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-03 12:54:52,847 [6] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-03 12:56:51,831 [6] INFO ProductWebAPI.Controllers.ProductsController - found 4 product(s) from db
+2022-03-03 12:56:51,831 [6] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-03 13:02:38,380 [16] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-03 13:02:41,479 [16] INFO ProductWebAPI.Controllers.ProductsController - found 4 product(s) from db
+2022-03-03 13:02:41,479 [16] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-03 13:03:41,624 [16] INFO ProductWebAPI.Controllers.ProductsController - Start Edit {"Id":0,"Name":"Honda City1","Description":"Best Car by Honda1","Category":null,"Attributes":[{"Id":1,"Value":"Black1"},{"Id":2,"Value":"Petrol1"},{"Id":3,"Value":"HighEnd1"}]}
+2022-03-03 14:10:51,537 [9] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-03 14:11:23,498 [9] INFO ProductWebAPI.Controllers.ProductsController - found 4 product(s) from db
+2022-03-03 14:11:23,498 [9] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-03 14:18:32,353 [12] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-03 14:18:34,889 [12] INFO ProductWebAPI.Controllers.ProductsController - found 4 product(s) from db
+2022-03-03 14:18:34,889 [12] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-03 14:21:02,171 [18] INFO ProductWebAPI.Controllers.ProductsController - Start Edit {"Id":10004,"Name":"Honda City1","Description":"Best Car by Honda1","Category":null,"Attributes":[{"Id":1,"Value":"Black1"},{"Id":2,"Value":"Petrol1"},{"Id":3,"Value":"HighEnd1"}]}
+2022-03-03 14:35:25,553 [6] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-03 14:35:55,313 [6] INFO ProductWebAPI.Controllers.ProductsController - found 4 product(s) from db
+2022-03-03 14:35:55,314 [6] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-03 14:37:03,977 [14] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-03 14:37:04,110 [14] INFO ProductWebAPI.Controllers.ProductsController - found 4 product(s) from db
+2022-03-03 14:37:04,110 [14] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-03 14:38:08,487 [14] INFO ProductWebAPI.Controllers.ProductsController - Start Edit {"Id":10004,"Name":"Honda City1","Description":"Best Car by Honda1","Category":null,"Attributes":[{"Id":1,"Value":"Black1"},{"Id":2,"Value":"Petrol1"},{"Id":3,"Value":"HighEnd1"}]}
+2022-03-03 14:38:10,629 [14] INFO ProductWebAPI.Controllers.ProductsController - End Create
+2022-03-03 14:40:39,486 [12] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-03 14:40:39,514 [12] INFO ProductWebAPI.Controllers.ProductsController - found 4 product(s) from db
+2022-03-03 14:40:39,514 [12] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-03 14:43:48,131 [17] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-03 14:43:48,158 [17] INFO ProductWebAPI.Controllers.ProductsController - found 4 product(s) from db
+2022-03-03 14:43:48,158 [17] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-03 14:44:08,444 [17] INFO ProductWebAPI.Controllers.ProductsController - Start Edit {"Id":10003,"Name":"iPhone 6S","Description":"Apple Smartphone edited","Category":null,"Attributes":[{"Id":4,"Value":"4gb"},{"Id":5,"Value":"6px"},{"Id":6,"Value":"10px"}]}
+2022-03-03 14:44:08,489 [17] INFO ProductWebAPI.Controllers.ProductsController - End Create
+2022-03-03 14:45:21,436 [18] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-03 14:45:21,453 [18] INFO ProductWebAPI.Controllers.ProductsController - found 4 product(s) from db
+2022-03-03 14:45:21,454 [18] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-03 18:58:49,835 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-03 19:02:04,196 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-03 19:02:11,754 [5] INFO ProductWebAPI.Controllers.ProductsController - found 4 product(s) from db
+2022-03-03 19:02:11,754 [5] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-03 19:23:05,612 [12] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-03 19:24:49,104 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-03 19:26:37,642 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-03 19:26:58,739 [5] INFO ProductWebAPI.Controllers.ProductsController - found 4 product(s) from db
+2022-03-03 19:26:58,740 [5] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-03 19:28:33,032 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-03 19:28:33,430 [5] INFO ProductWebAPI.Controllers.ProductsController - found 4 product(s) from db
+2022-03-03 19:28:33,430 [5] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-03 19:30:13,287 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-03 19:30:13,299 [5] INFO ProductWebAPI.Controllers.ProductsController - found 4 product(s) from db
+2022-03-03 19:30:13,299 [5] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-03 19:30:20,766 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-03 19:30:20,784 [5] INFO ProductWebAPI.Controllers.ProductsController - found 4 product(s) from db
+2022-03-03 19:30:20,784 [5] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-03 19:31:12,265 [6] INFO ProductWebAPI.Controllers.ProductsController - Start Create {"Id":0,"Name":"Innova Crysta","Description":"Toyota Car","Category":{"Id":1,"Name":null,"Attributes":null},"Attributes":[{"Id":1,"Value":"White"},{"Id":2,"Value":"Petrol"},{"Id":3,"Value":"2020"}]}
+2022-03-03 19:31:12,633 [6] INFO ProductWebAPI.Controllers.ProductsController - Product being added Innova Crysta, Toyota Car, Category id 1
+2022-03-03 19:31:14,391 [6] INFO ProductWebAPI.Controllers.ProductsController - Product Attributes being added for category with id 1
+2022-03-03 19:31:14,529 [6] INFO ProductWebAPI.Controllers.ProductsController - End Create
+2022-03-03 19:31:18,169 [12] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-03 19:31:18,312 [12] INFO ProductWebAPI.Controllers.ProductsController - found 5 product(s) from db
+2022-03-03 19:31:18,312 [12] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-03 19:33:05,816 [10] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-03 19:33:05,829 [10] INFO ProductWebAPI.Controllers.ProductsController - found 5 product(s) from db
+2022-03-03 19:33:05,829 [10] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-03 19:33:47,140 [12] INFO ProductWebAPI.Controllers.ProductsController - Start Create {"Id":0,"Name":"Pixel","Description":"Google Smartphone","Category":{"Id":2,"Name":null,"Attributes":null},"Attributes":[{"Id":4,"Value":"6gb"},{"Id":5,"Value":"8px"},{"Id":6,"Value":"16px"}]}
+2022-03-03 19:33:47,143 [12] INFO ProductWebAPI.Controllers.ProductsController - Product being added Pixel, Google Smartphone, Category id 2
+2022-03-03 19:33:47,152 [12] INFO ProductWebAPI.Controllers.ProductsController - Product Attributes being added for category with id 2
+2022-03-03 19:33:47,173 [12] INFO ProductWebAPI.Controllers.ProductsController - End Create
+2022-03-03 19:34:55,123 [15] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-03 19:34:55,135 [15] INFO ProductWebAPI.Controllers.ProductsController - found 6 product(s) from db
+2022-03-03 19:34:55,135 [15] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-03 19:40:37,399 [16] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-03 19:40:37,949 [16] INFO ProductWebAPI.Controllers.ProductsController - found 6 product(s) from db
+2022-03-03 19:40:37,949 [16] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-03 19:41:37,601 [21] INFO ProductWebAPI.Controllers.ProductsController - Start Create {"Id":0,"Name":"Alto","Description":"Maruti Suzuki","Category":{"Id":1,"Name":null,"Attributes":null},"Attributes":[{"Id":1,"Value":"Black"},{"Id":2,"Value":"Petrol"},{"Id":3,"Value":"2010"}]}
+2022-03-03 19:41:37,605 [21] INFO ProductWebAPI.Controllers.ProductsController - Product being added Alto, Maruti Suzuki, Category id 1
+2022-03-03 19:41:37,702 [21] INFO ProductWebAPI.Controllers.ProductsController - Product Attributes being added for category with id 1
+2022-03-03 19:41:37,763 [21] INFO ProductWebAPI.Controllers.ProductsController - End Create
+2022-03-03 19:42:02,091 [16] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-03 19:42:02,121 [16] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-03 19:42:02,121 [16] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-04 11:08:39,413 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-04 11:09:19,675 [5] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-04 11:09:19,675 [5] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-04 11:14:19,599 [10] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-04 11:14:21,596 [10] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-04 11:14:21,596 [10] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-04 11:15:25,782 [7] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-04 11:15:25,874 [7] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-04 11:15:25,874 [7] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-04 11:15:30,739 [7] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-04 11:15:30,761 [7] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-04 11:15:30,761 [7] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-04 11:15:36,911 [10] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-04 11:15:37,014 [10] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-04 11:15:37,014 [10] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-04 11:15:49,000 [10] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-04 11:15:49,019 [10] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-04 11:15:49,019 [10] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-04 11:16:19,277 [10] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-04 11:16:19,312 [10] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-04 11:16:19,312 [10] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-04 11:16:27,947 [10] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-04 11:16:27,966 [10] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-04 11:16:27,966 [10] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-04 11:16:33,078 [10] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-04 11:16:33,113 [10] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-04 11:16:33,113 [10] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-04 11:16:35,762 [8] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-04 11:16:35,790 [8] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-04 11:16:35,790 [8] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-04 11:28:25,798 [21] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-04 11:28:41,683 [21] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-04 11:28:41,683 [21] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-04 11:29:04,219 [21] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-04 11:29:04,237 [21] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-04 11:29:04,237 [21] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-04 15:13:28,553 [6] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-04 15:13:48,902 [6] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-04 15:13:48,903 [6] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-04 15:20:33,702 [6] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-04 15:20:35,716 [6] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-04 15:20:35,716 [6] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-04 16:01:33,130 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-04 16:01:51,487 [5] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-04 16:01:51,487 [5] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-04 16:09:56,696 [14] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-04 16:09:57,363 [14] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-04 16:09:57,363 [14] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-04 18:25:08,570 [6] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-04 18:25:27,221 [6] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-04 18:25:27,221 [6] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-04 18:27:52,331 [11] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-04 18:27:52,809 [11] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-04 18:27:52,809 [11] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-04 18:31:10,319 [12] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-04 18:31:10,548 [12] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-04 18:31:10,548 [12] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-04 18:31:30,155 [13] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-04 18:31:30,183 [13] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-04 18:31:30,183 [13] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-04 18:31:48,670 [12] INFO ProductWebAPI.Controllers.ProductsController - Start Edit {"Id":10004,"Name":"Honda City","Description":"Best Car by Honda","Category":null,"Attributes":[{"Id":1,"Value":"Black"},{"Id":2,"Value":"Petrol"},{"Id":3,"Value":"HighEnd"}]}
+2022-03-04 18:31:50,009 [12] INFO ProductWebAPI.Controllers.ProductsController - Product with id 10004, Category id 1 being updated 
+2022-03-04 18:31:51,271 [12] INFO ProductWebAPI.Controllers.ProductsController - End Create
+2022-03-04 18:31:53,397 [10] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-04 18:31:53,412 [10] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-04 18:31:53,412 [10] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-04 18:31:58,204 [10] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-04 18:31:58,232 [10] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-04 18:31:58,232 [10] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-04 18:32:00,301 [11] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-04 18:32:00,318 [11] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-04 18:32:00,318 [11] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-04 18:43:59,742 [7] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-04 18:44:11,023 [7] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-04 18:44:11,023 [7] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-04 18:44:29,507 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-04 18:44:29,637 [5] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-04 18:44:29,637 [5] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-04 18:44:37,118 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-04 18:44:37,230 [5] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-04 18:44:37,230 [5] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-04 18:44:41,676 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-04 18:44:41,709 [5] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-04 18:44:41,709 [5] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-04 18:44:45,568 [7] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-04 18:44:45,579 [7] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-04 18:44:45,579 [7] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-04 18:44:48,174 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-04 18:44:48,295 [5] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-04 18:44:48,295 [5] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-04 18:45:44,291 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-04 18:45:44,397 [5] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-04 18:45:44,397 [5] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-04 18:45:55,067 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-04 18:45:55,082 [5] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-04 18:45:55,082 [5] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-04 18:45:57,215 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-04 18:45:57,229 [5] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-04 18:45:57,229 [5] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-04 18:49:15,976 [11] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-04 18:49:16,005 [11] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-04 18:49:16,005 [11] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-04 18:49:19,316 [10] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-04 18:49:19,328 [10] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-04 18:49:19,328 [10] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 06:33:33,024 [6] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 06:35:03,905 [6] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 06:35:03,905 [6] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 06:39:16,527 [6] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 06:39:16,707 [6] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 06:39:16,707 [6] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 06:40:45,926 [6] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 06:40:45,940 [6] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 06:40:45,940 [6] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 06:40:59,990 [6] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 06:41:00,004 [6] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 06:41:00,004 [6] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 06:41:31,802 [6] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 06:41:31,817 [6] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 06:41:31,817 [6] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 06:50:40,322 [11] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 06:50:41,805 [11] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 06:50:41,805 [11] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 06:52:05,344 [12] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 06:52:05,519 [12] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 06:52:05,519 [12] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 06:52:10,115 [19] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 06:52:10,171 [19] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 06:52:10,171 [19] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 06:52:22,750 [12] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 06:52:22,801 [12] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 06:52:22,801 [12] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 06:52:38,908 [13] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 06:52:38,982 [13] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 06:52:38,982 [13] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 06:53:13,720 [18] INFO ProductWebAPI.Controllers.ProductsController - Start Edit {"Id":10003,"Name":"iPhone 6S","Description":"Apple Smartphone","Category":null,"Attributes":[{"Id":4,"Value":"5gb"},{"Id":5,"Value":"6px"},{"Id":6,"Value":"10px"}]}
+2022-03-05 06:53:19,187 [18] INFO ProductWebAPI.Controllers.ProductsController - Product with id 10003, Category id 2 being updated 
+2022-03-05 06:53:25,227 [18] INFO ProductWebAPI.Controllers.ProductsController - End Create
+2022-03-05 06:53:28,302 [12] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 06:53:28,333 [12] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 06:53:28,333 [12] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 06:53:34,643 [13] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 06:53:34,677 [13] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 06:53:34,678 [13] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 06:53:36,777 [12] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 06:53:36,790 [12] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 06:53:36,790 [12] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 06:53:47,185 [12] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 06:53:47,202 [12] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 06:53:47,203 [12] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 06:53:54,064 [13] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 06:53:54,079 [13] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 06:53:54,079 [13] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 06:53:56,609 [13] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 06:53:56,624 [13] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 06:53:56,624 [13] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 06:54:01,780 [18] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 06:54:01,792 [18] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 06:54:01,793 [18] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 06:54:05,432 [12] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 06:54:05,449 [12] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 06:54:05,449 [12] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 06:54:07,548 [12] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 06:54:07,585 [12] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 06:54:07,585 [12] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 06:54:12,078 [13] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 06:54:12,089 [13] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 06:54:12,089 [13] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 06:54:54,465 [18] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 06:54:54,481 [18] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 06:54:54,482 [18] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 07:17:42,534 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 07:21:27,458 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 07:21:40,875 [5] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 07:21:40,875 [5] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 07:21:49,259 [8] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 07:21:49,366 [8] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 07:21:49,366 [8] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 07:22:15,916 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 07:22:15,930 [5] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 07:22:15,930 [5] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 07:23:03,909 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 07:23:03,946 [5] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 07:23:03,946 [5] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 07:23:12,002 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 07:23:12,026 [5] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 07:23:12,026 [5] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 09:20:33,649 [12] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 09:21:06,697 [12] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 09:21:06,697 [12] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 09:23:43,906 [12] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 09:23:44,176 [12] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 09:23:44,176 [12] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 09:25:01,227 [8] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 09:25:01,398 [8] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 09:25:01,398 [8] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 09:25:05,703 [7] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 09:25:05,716 [7] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 09:25:05,716 [7] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 09:25:12,200 [10] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 09:25:12,231 [10] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 09:25:12,231 [10] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 09:37:02,804 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 09:37:47,929 [5] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 09:37:47,929 [5] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 09:38:14,337 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 09:38:14,489 [5] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 09:38:14,489 [5] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 09:38:39,334 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 09:38:39,347 [5] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 09:38:39,347 [5] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 09:38:41,986 [6] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 09:38:42,010 [6] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 09:38:42,010 [6] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 09:38:44,027 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 09:38:44,041 [5] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 09:38:44,041 [5] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 09:38:45,948 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 09:38:45,965 [5] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 09:38:45,965 [5] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 09:39:00,284 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 09:39:00,297 [5] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 09:39:00,297 [5] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 09:39:02,869 [6] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 09:39:02,882 [6] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 09:39:02,883 [6] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 09:41:48,113 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 09:41:48,129 [5] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 09:41:48,129 [5] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 09:48:29,679 [17] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 09:48:29,845 [17] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 09:48:29,845 [17] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 09:48:37,392 [19] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 09:48:37,405 [19] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 09:48:37,406 [19] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 09:48:40,539 [16] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 09:48:40,550 [16] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 09:48:40,551 [16] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 09:50:59,851 [16] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 09:50:59,866 [16] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 09:50:59,866 [16] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 09:51:03,653 [19] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 09:51:03,671 [19] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 09:51:03,671 [19] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 09:51:18,101 [16] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 09:51:18,120 [16] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 09:51:18,120 [16] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 10:00:12,219 [21] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 10:00:12,231 [21] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 10:00:12,232 [21] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 10:01:34,252 [31] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 10:01:34,266 [31] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 10:01:34,267 [31] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 10:05:52,293 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 10:06:09,642 [5] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 10:06:09,643 [5] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 10:06:13,074 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 10:06:13,115 [5] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 10:06:13,115 [5] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 10:07:35,621 [6] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 10:07:35,649 [6] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 10:07:35,649 [6] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 10:08:48,794 [7] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 10:08:48,947 [7] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 10:08:48,947 [7] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 10:11:16,407 [7] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 10:11:16,528 [7] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 10:11:16,528 [7] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 10:11:25,286 [7] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 10:11:25,298 [7] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 10:11:25,298 [7] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 10:11:27,031 [7] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 10:11:27,047 [7] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 10:11:27,047 [7] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 10:16:44,617 [13] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 10:16:44,685 [13] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 10:16:44,685 [13] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 10:18:25,222 [16] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 10:18:25,239 [16] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 10:18:25,239 [16] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 10:18:54,221 [13] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 10:18:54,234 [13] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 10:18:54,234 [13] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 10:19:38,781 [13] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 10:19:38,794 [13] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 10:19:38,794 [13] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 10:19:55,675 [13] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 10:19:55,688 [13] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 10:19:55,688 [13] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 10:19:57,300 [13] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 10:19:57,404 [13] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 10:19:57,404 [13] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 10:19:58,813 [16] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 10:19:58,817 [16] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 10:19:58,817 [16] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 10:20:59,773 [15] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 10:20:59,785 [15] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 10:20:59,786 [15] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 10:21:02,767 [15] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 10:21:02,772 [15] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 10:21:02,772 [15] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 10:25:14,441 [13] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 10:25:14,457 [13] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 10:25:14,458 [13] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 10:32:23,146 [15] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 10:32:23,173 [15] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 10:32:23,173 [15] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 10:32:26,191 [19] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 10:32:26,204 [19] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 10:32:26,204 [19] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 10:32:27,772 [15] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 10:32:27,777 [15] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 10:32:27,777 [15] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 10:32:54,181 [15] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 10:32:54,185 [15] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 10:32:54,185 [15] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 10:32:57,460 [19] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 10:32:57,475 [19] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 10:32:57,475 [19] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 10:33:00,190 [15] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 10:33:00,205 [15] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 10:33:00,205 [15] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 10:33:17,790 [21] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 10:33:17,806 [21] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 10:33:17,806 [21] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 10:33:21,974 [26] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 10:33:21,979 [26] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 10:33:21,979 [26] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 10:33:27,530 [21] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 10:33:27,547 [21] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 10:33:27,547 [21] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 10:35:02,542 [15] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 10:35:02,555 [15] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 10:35:02,555 [15] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 10:35:20,200 [26] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 10:35:20,221 [26] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 10:35:20,221 [26] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 10:35:23,651 [15] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 10:35:23,657 [15] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 10:35:23,657 [15] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 10:35:27,517 [26] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 10:35:27,521 [26] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 10:35:27,522 [26] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 10:35:46,562 [15] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 10:35:46,577 [15] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 10:35:46,577 [15] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 10:41:44,419 [15] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 10:41:44,438 [15] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 10:41:44,438 [15] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 10:42:17,982 [15] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 10:42:17,998 [15] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 10:42:17,998 [15] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 10:43:08,156 [15] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 10:43:08,168 [15] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 10:43:08,168 [15] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 10:44:11,692 [29] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 10:44:11,706 [29] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 10:44:11,706 [29] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 10:44:14,678 [27] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 10:44:14,682 [27] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 10:44:14,682 [27] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 10:44:28,755 [27] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 10:44:28,773 [27] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 10:44:28,773 [27] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 10:44:30,683 [27] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 10:44:30,696 [27] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 10:44:30,697 [27] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 10:44:32,607 [27] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 10:44:32,619 [27] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 10:44:32,619 [27] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 10:46:31,979 [29] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 10:46:31,995 [29] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 10:46:31,995 [29] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 10:47:06,308 [28] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 10:47:06,325 [28] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 10:47:06,325 [28] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 10:47:10,209 [27] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 10:47:10,215 [27] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 10:47:10,215 [27] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 10:51:48,282 [33] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 10:51:48,478 [33] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 10:51:48,478 [33] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 10:52:15,303 [33] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 10:52:15,322 [33] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 10:52:15,322 [33] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 10:56:45,281 [35] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 10:56:45,412 [35] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 10:56:45,412 [35] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 13:02:35,650 [11] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 13:09:20,407 [10] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 14:18:49,593 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 14:19:12,409 [5] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 14:19:12,409 [5] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 14:23:16,589 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 14:23:17,026 [5] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 14:23:17,026 [5] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 14:25:22,659 [10] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 14:25:22,991 [10] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 14:25:22,991 [10] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 14:25:34,669 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 14:25:34,694 [5] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 14:25:34,694 [5] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 14:25:44,154 [6] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 14:25:44,500 [6] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 14:25:44,500 [6] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 14:25:46,703 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 14:25:46,757 [5] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 14:25:46,757 [5] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 14:25:51,791 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 14:25:52,259 [5] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 14:25:52,259 [5] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 14:26:07,845 [10] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 14:26:07,874 [10] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 14:26:07,874 [10] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 15:02:22,781 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 15:05:58,921 [4] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 15:06:18,880 [4] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 15:06:18,880 [4] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 15:06:51,530 [4] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 15:06:51,635 [4] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 15:06:51,635 [4] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 15:07:37,985 [12] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 15:07:38,008 [12] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 15:07:38,008 [12] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 15:07:42,752 [4] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 15:07:42,768 [4] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 15:07:42,768 [4] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 15:07:58,848 [4] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 15:07:58,860 [4] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 15:07:58,860 [4] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 15:08:01,753 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 15:08:01,777 [5] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 15:08:01,777 [5] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-05 15:08:04,377 [4] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-05 15:08:04,401 [4] INFO ProductWebAPI.Controllers.ProductsController - found 7 product(s) from db
+2022-03-05 15:08:04,401 [4] INFO ProductWebAPI.Controllers.ProductsController - End Get
+2022-03-06 09:02:48,187 [5] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-06 10:27:51,405 [7] INFO ProductWebAPI.Controllers.ProductsController - Start Get
+2022-03-06 10:29:02,833 [6] INFO ProductWebAPI.Controllers.ProductsController - Start Get
