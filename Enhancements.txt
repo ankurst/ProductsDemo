@@ -1,0 +1,8 @@
+1.	AntiForgery validations can be applied on both sides i.e., Web API controllers as well a MVC views.
+2.	More logging can be applied in both applications that will help better track/understand what all things are happening for particular request and to see what error/exception is thrown for particular operation.
+3.	Exception handling can be enhanced to provide more detailed information for exception. This will help effectively debug/troubleshoot issues/defect in applications.
+4.	More unit test cases can be added in both applications to ensure max code coverage which will help uncover potential issue(s).
+5.	I have named model classes as *.ViewModel.cs but they can be renamed if you feel.
+6.	Authorization placeholder is provided in MVC application but we can apply authorization in WebAPI as well to ensure only authentic caller/user is calling WebAPI.
+7.	I have used same MVC view to provide add and edit feature on Product but we can segregate it to have better maintainability.
+8.	I can provide delete product feature in MVC UI page also (I have not provided as of now as it was not explicitly mentioned in requirement document). I have provided WebAPI endpoint though for this feature.
